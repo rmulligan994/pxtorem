@@ -10,7 +10,7 @@ function App() {
       <footer className="mt-8 text-center text-gray-600">
         <p>Created with React and Tailwind CSS</p>
         <a
-          href="https://github.com/yourusername/px-to-rem-converter"
+          href="https://github.com/rmulligan994/pxtorem"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center text-blue-600 hover:text-blue-800 mt-2"
